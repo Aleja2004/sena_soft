@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KxnTpOVi91BKEdCyhRI5FefmK4ZQl9AA7tPJvK3fYJyuk/ocEYbJL20sRnq/zf0gnXcUcnsn1z6Jpuk0MK5jOg==",
+  "dgSpecHash": "wCDFtRWZ2htFP+3fusQg80b8gUgQ8iJ0LILg6csrlxfaIeaUbmR3ozkV4HT2Bc7i6NJndljHkaBNPPEXtrN/ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Dia_uno_delegacion_Caldas\\proyecto\\presentacion\\Presentacion.csproj",
+  "projectFilePath": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Proyecto\\presentacion\\Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dipam\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\dipam\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

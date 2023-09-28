@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dipam\\OneDrive\\Escritorio\\Dia_uno_delegacion_Caldas\\proyecto\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\dipam\\OneDrive\\Escritorio\\Proyecto\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dipam\\OneDrive\\Escritorio\\Dia_uno_delegacion_Caldas\\proyecto\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\dipam\\OneDrive\\Escritorio\\Proyecto\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Dia_uno_delegacion_Caldas\\proyecto\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Proyecto\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Dia_uno_delegacion_Caldas\\proyecto\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Proyecto\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\dipam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Dia_uno_delegacion_Caldas\\proyecto\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Proyecto\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dipam\\AppData\\Roaming\\NuGet\\NuGet.Config"

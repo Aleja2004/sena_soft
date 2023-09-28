@@ -56,3 +56,15 @@ C:\Users\dipam\OneDrive\Escritorio\Dia_uno_delegacion_Caldas\proyecto\Dominio\ob
 C:\Users\dipam\OneDrive\Escritorio\Dia_uno_delegacion_Caldas\proyecto\Dominio\obj\Debug\net6.0\refint\Dominio.dll
 C:\Users\dipam\OneDrive\Escritorio\Dia_uno_delegacion_Caldas\proyecto\Dominio\obj\Debug\net6.0\Dominio.pdb
 C:\Users\dipam\OneDrive\Escritorio\Dia_uno_delegacion_Caldas\proyecto\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\dipam\OneDrive\Escritorio\Proyecto\Dominio\obj\Debug\net6.0\ref\Dominio.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WRCn6JclTMtoZ7Yw+2PFMcui3iFJy9IETBsTfwViZo+m2RHYyQ8EEbV0EuGCRuedbd28bDstKhQcsPHJUS71yg==",
+  "dgSpecHash": "1BTTTcOlKT1xvbmVNaG5yH4pw7Yfr82QrnR8Kim/p566TMd4HtFoZ2IVJI52BP3JDg20T3R7PoOo21DO4GTF5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Dia_uno_delegacion_Caldas\\proyecto\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\dipam\\OneDrive\\Escritorio\\Proyecto\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dipam\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\dipam\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
