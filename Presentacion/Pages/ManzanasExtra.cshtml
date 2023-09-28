@@ -44,6 +44,33 @@
             </div>
           </div>
 
+          <div id="map" style="width: 100%; height: 400px;"></div>
+
+<script>
+  function initMap() {
+    var map = new google.maps.Map(document.getElementById('map'), {
+      center: { lat: 4.626377716706311,  lng:-74.17237127290866 }, // Establece el centro del mapa en las coordenadas deseadas
+      zoom: 12 // Ajusta el nivel de zoom según tus necesidades
+    });
+
+    // Crea un marcador para cada punto específico
+    var puntos = [
+      { lat: 4.580863106636325,  lng:-74.19125402419151 },
+      { lat: 4.649989408718462, lng: -74.06216466996706 },
+      // Agrega más puntos según sea necesario
+    ];
+
+    puntos.forEach(function(punto) {
+      var marker = new google.maps.Marker({
+        position: punto,
+        map: map,
+        title: 'Manzanas' // Puedes personalizar el título del marcador
+      });
+    });
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDOeRHkt9U5XWBQ-1m-8OSJJHLYkVPaWio&callback=initMap" async defer></script>
+
         </div>
 
       </div>

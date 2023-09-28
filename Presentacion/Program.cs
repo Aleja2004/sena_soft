@@ -1,10 +1,27 @@
 using Proyecto.Persistencia;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Presentacion.Areas.Identity.Data;
+
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("PresentacionIdentityDbContextConnection") ?? throw new InvalidOperationException("Connection string 'PresentacionIdentityDbContextConnection' not found.");
+
+builder.Services.AddDbContext<PresentacionIdentityDbContext>(options =>
+    options.UseSqlServer(connectionString));
+
+//builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+   // .AddEntityFrameworkStores<PresentacionIdentityDbContext>();
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<IRepositorio, Repositorio>();
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<PresentacionIdentityDbContext>()
+    .AddDefaultUI()
+    .AddDefaultTokenProviders();
+
 
 var app = builder.Build();
 
@@ -20,6 +37,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
 
